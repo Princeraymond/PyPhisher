@@ -44,7 +44,7 @@ python3 pyphisher.py
 
 Or, directly run
 
-wget https://raw.githubusercontent.com/KasRoudra/PyPhisher/main/pyphisher.py && python3 pyphisher.py
+wget https://raw.githubusercontent.com/Mrsilent/PyPhisher/main/pyphisher.py && python3 pyphisher.py
 
 Pip
 
